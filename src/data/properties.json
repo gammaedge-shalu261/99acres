@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "image": "https://via.placeholder.com/400x250?text=Apartment+1",
+    "price": 28,
+    "title": "2 BHK Apartment",
+    "details": "2 Baths",
+    "location": "Suyash Residency, Green Park",
+    "postedBy": "Owner",
+    "postedAgo": "4 months ago"
+  },
+  {
+    "id": 2,
+    "image": "https://via.placeholder.com/400x250?text=Apartment+2",
+    "price": 42,
+    "title": "3 BHK Apartment",
+    "details": "3 Baths",
+    "location": "Aashiyana Heights, Lake View",
+    "postedBy": "Owner",
+    "postedAgo": "2 months ago"
+  },
+  {
+    "id": 3,
+    "image": "https://via.placeholder.com/400x250?text=House+1",
+    "price": 75,
+    "title": "Independent House",
+    "details": "4 BHK • 3 Baths",
+    "location": "Shiv Colony, North Avenue",
+    "postedBy": "Owner",
+    "postedAgo": "6 months ago"
+  },
+  {
+    "id": 4,
+    "image": "https://via.placeholder.com/400x250?text=Flat+1",
+    "price": 22,
+    "title": "1 BHK Flat",
+    "details": "1 Bath",
+    "location": "Sunrise Apartments, City Center",
+    "postedBy": "Agent",
+    "postedAgo": "1 month ago"
+  },
+  {
+    "id": 5,
+    "image": "https://via.placeholder.com/400x250?text=Plot+1",
+    "price": 35,
+    "title": "Residential Plot",
+    "details": "1200 sq.ft",
+    "location": "Silver Enclave, West End",
+    "postedBy": "Owner",
+    "postedAgo": "5 months ago"
+  },
+  {
+    "id": 6,
+    "image": "https://via.placeholder.com/400x250?text=Apartment+3",
+    "price": 30,
+    "title": "2 BHK Apartment",
+    "details": "2 Baths",
+    "location": "Pearl Homes, River Side",
+    "postedBy": "Agent",
+    "postedAgo": "3 weeks ago"
+  },
+  {
+    "id": 7,
+    "image": "https://via.placeholder.com/400x250?text=House+2",
+    "price": 95,
+    "title": "Villa",
+    "details": "5 BHK • 4 Baths",
+    "location": "Palm Residency, Hill View",
+    "postedBy": "Owner",
+    "postedAgo": "8 months ago"
+  },
+  {
+    "id": 8,
+    "image": "https://via.placeholder.com/400x250?text=Flat+2",
+    "price": 48,
+    "title": "3 BHK Flat",
+    "details": "2 Baths",
+    "location": "Elite Towers, Downtown",
+    "postedBy": "Agent",
+    "postedAgo": "2 weeks ago"
+  },
+  {
+    "id": 9,
+    "image": "https://via.placeholder.com/400x250?text=Plot+2",
+    "price": 60,
+    "title": "Commercial Plot",
+    "details": "2000 sq.ft",
+    "location": "Business Park, Main Road",
+    "postedBy": "Owner",
+    "postedAgo": "7 months ago"
+  },
+  {
+    "id": 10,
+    "image": "https://via.placeholder.com/400x250?text=Apartment+4",
+    "price": 18,
+    "title": "Studio Apartment",
+    "details": "1 Bath",
+    "location": "Urban Nest, Tech Zone",
+    "postedBy": "Owner",
+    "postedAgo": "10 days ago"
+  },
+  {
+    "id": 11,
+    "image": "https://via.placeholder.com/400x250?text=House+3",
+    "price": 68,
+    "title": "Duplex House",
+    "details": "4 BHK • 3 Baths",
+    "location": "Royal Villas, East Side",
+    "postedBy": "Agent",
+    "postedAgo": "9 months ago"
+  },
+  {
+    "id": 12,
+    "image": "https://via.placeholder.com/400x250?text=Flat+3",
+    "price": 32,
+    "title": "2 BHK Flat",
+    "details": "2 Baths",
+    "location": "Skyline Homes, Central Park",
+    "postedBy": "Owner",
+    "postedAgo": "1 month ago"
+  }
+]

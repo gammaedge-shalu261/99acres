@@ -1,0 +1,15 @@
+
+/* App styles */
+
+.card-ghost {
+	background: linear-gradient(180deg, rgba(255,255,255,0.9), rgba(250,250,250,0.9));
+}
+
+.subtle-shadow {
+	box-shadow: 0 6px 18px rgba(17,24,39,0.06);
+}
+
+.image-soft {
+	transition: transform .28s ease, opacity .28s ease;
+}
+
